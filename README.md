@@ -65,5 +65,5 @@ This will display the ethical hacking goal as a GUI window.
 
 ## License
 
-This project is licensed under the ### <a href="#">[MIT License](LICENSE)</a>.
+This project is licensed under the  <a href="#">[MIT License](LICENSE)</a>.
 python3 goals.py
