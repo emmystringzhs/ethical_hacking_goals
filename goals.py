@@ -2,7 +2,7 @@ import tkinter as tk
 import datetime
 import random
 
-# List of goals
+# List of goals to meetup with per day for the month of june
 goals = [
     "Set up your ethical hacking environment.",
     "Learn the basics of networking.",
