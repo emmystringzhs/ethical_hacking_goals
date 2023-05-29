@@ -48,7 +48,7 @@ This will display the ethical hacking goal as a GUI window.
 
   Replace `/path/to/your/python/script.py` with the actual path to your Python script that contains the ethical hacking goal code.
 
-- Save the file by pressing `Ctrl + O`, then exit the text editor by pressing `Ctrl + X`.
+- Save the file by pressing `:w`, then exit the text editor by pressing `:q`.
 
 - Make the `.desktop` file executable by running the following command:
   ```
